@@ -1,0 +1,28 @@
+.dslc-trigger-lightbox-gallery{cursor:pointer}
+
+
+/* START ЩШИБКИ ОТОБРАЖЕНИЯ В IE 11 */
+
+/* .dslc-in-viewport-anim-dslcSlideDown.dslc-in-viewport-check{-webkit-transform:translateY(-100px);-moz-transform:translateY(-100px);transform:translateY(-100px)}
+@-webkit-keyframes dslcSlideRight{to{-webkit-transform:translateX(0)}
+}
+@-moz-keyframes dslcSlideRight{to{-moz-transform:translateX(0)}
+}
+.dslc-in-viewport-anim-dslcSlideRight.dslc-in-viewport-check{-webkit-transform:translateX(-100px);-moz-transform:translateX(-100px);transform:translateX(-100px)}
+@-webkit-keyframes dslcSlideLeft{to{-webkit-transform:translateX(0)}
+}
+@-moz-keyframes dslcSlideLeft{to{-moz-transform:translateX(0)}
+}
+.dslc-in-viewport-anim-dslcSlideLeft.dslc-in-viewport-check{-webkit-transform:translateX(100px);-moz-transform:translateX(100px);transform:translateX(100px)}
+@-webkit-keyframes dslcSlideUpFadeIn{to{-webkit-transform:translateY(0);opacity:1}
+}
+@-moz-keyframes dslcSlideUpFadeIn{to{-moz-transform:translateY(0);opacity:1}
+}
+
+/*
+.dslc-in-viewport-anim-dslcSlideUpFadeIn.dslc-in-viewport-check{-webkit-transform:translateY(100px);-moz-transform:translateY(100px);transform:translateY(100px);opacity:0}
+@-webkit-keyframes dslcSlideDownFadeIn{to{-webkit-transform:translateY(0);opacity:1}
+}*/
+
+
+/* END ОШИБКИ ОТОБРАЖЕНИЯ В IE 11 */
